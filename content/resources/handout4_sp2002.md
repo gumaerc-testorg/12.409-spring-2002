@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bb44cd8a-7098-aa62-2de2-c78261b33ae0
 resourcetype: Document
 title: handout4_sp2002.pdf
 uid: faca4522-847a-38c1-7626-1a2be6039bc2
