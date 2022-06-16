@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on meeting times, grading, attendance, laboratory notebooks, textbooks, and expected
+  student preparation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

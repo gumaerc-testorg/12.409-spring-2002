@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and the handouts
+  for each session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ Topics
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Course Information ([PDF]({{< baseurl >}}/resources/handout1_sp2002))
+Course Information ({{% resource_link 805af99d-cfc3-bbf9-40b3-1bc418fb6b52 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +36,7 @@ Course Information ([PDF]({{< baseurl >}}/resources/handout1_sp2002))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Care and Feeding of Your Observing Notebook ([PDF]({{< baseurl >}}/resources/handout2_sp2002))
+Care and Feeding of Your Observing Notebook ({{% resource_link 588a79ea-bb14-885f-738f-d1c2221cc53f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Care and Feeding of Your Observing Notebook ([PDF]({{< baseurl >}}/resources/han
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Meade 8" LX200 Set-up ([PDF]({{< baseurl >}}/resources/handout3_sp2002))
+Meade 8" LX200 Set-up ({{% resource_link 290d856f-660c-ee59-875b-d4f51564080c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +54,7 @@ Meade 8" LX200 Set-up ([PDF]({{< baseurl >}}/resources/handout3_sp2002))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Can We Observe x Tonight? ([PDF]({{< baseurl >}}/resources/handout4_sp2002))
+Can We Observe x Tonight? ({{% resource_link faca4522-847a-38c1-7626-1a2be6039bc2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +63,7 @@ Can We Observe x Tonight? ([PDF]({{< baseurl >}}/resources/handout4_sp2002))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-"Chez 12.409" Menu for Spring 2002 ([PDF]({{< baseurl >}}/resources/handout5_sp2002))
+"Chez 12.409" Menu for Spring 2002 ({{% resource_link 21130d3b-bbb1-4511-c8e8-ef64c295ab1f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +72,7 @@ Can We Observe x Tonight? ([PDF]({{< baseurl >}}/resources/handout4_sp2002))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Observing Tips ([PDF]({{< baseurl >}}/resources/handout6_sp2002))
+Observing Tips ({{% resource_link 36959f2e-ef8b-915f-9a2d-b2350693e08d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Observing Tips ([PDF]({{< baseurl >}}/resources/handout6_sp2002))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Useful Optics Information ([PDF]({{< baseurl >}}/resources/handout7_sp2002))
+Useful Optics Information ({{% resource_link 1e0eae8f-a82d-2694-f2e6-1014362b40a9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +90,7 @@ Useful Optics Information ([PDF]({{< baseurl >}}/resources/handout7_sp2002))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-CCD User's Guide ([PDF]({{< baseurl >}}/resources/handout8_sp2002))
+CCD User's Guide ({{% resource_link 43ce2380-7ea5-9c93-4e39-08d61a78c16a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ CCD User's Guide ([PDF]({{< baseurl >}}/resources/handout8_sp2002))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Basic CCD Image Processing ([PDF]({{< baseurl >}}/resources/handout9_sp2002))
+Basic CCD Image Processing ({{% resource_link 179a97ff-d8e0-5eca-e5b5-9476da7cedb3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +108,7 @@ Basic CCD Image Processing ([PDF]({{< baseurl >}}/resources/handout9_sp2002))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-The LX200 Object Library ([PDF]({{< baseurl >}}/resources/handout10_sp2002))
+The LX200 Object Library ({{% resource_link 296e5db9-428f-a247-cfea-9cf55242a07a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +117,7 @@ The LX200 Object Library ([PDF]({{< baseurl >}}/resources/handout10_sp2002))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Color Imaging ([PDF]({{< baseurl >}}/resources/handout11_sp2002))
+Color Imaging ({{% resource_link fd2db278-8c73-e177-6c0b-49177dd97457 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +126,7 @@ Color Imaging ([PDF]({{< baseurl >}}/resources/handout11_sp2002))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Solar Observing ([PDF]({{< baseurl >}}/resources/handout12_sp2002))
+Solar Observing ({{% resource_link 625bd49e-8794-cb18-5225-e31258cee5f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
