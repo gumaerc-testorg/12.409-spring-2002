@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Can We Observe x Tonight?
-file: /courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/faca4522847a38c176261a2be6039bc2_handout4_sp2002.pdf
+file: /ol-ocw-studio-app/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/faca4522847a38c176261a2be6039bc2_handout4_sp2002.pdf
 file_size: 134468
 file_type: application/pdf
 learning_resource_types:
