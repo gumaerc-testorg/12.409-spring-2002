@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Basic CCD Image Processing
-file: /courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/179a97ffd8e05ecae5b59476da7cedb3_handout9_sp2002.pdf
+file: /ol-ocw-studio-app/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/179a97ffd8e05ecae5b59476da7cedb3_handout9_sp2002.pdf
 file_size: 56816
 file_type: application/pdf
 learning_resource_types:
