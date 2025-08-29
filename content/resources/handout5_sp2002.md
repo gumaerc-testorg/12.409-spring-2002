@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '"Chez 12.409" Menu for Spring 2002'
-file: /courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/21130d3bbbb14511c8e8ef64c295ab1f_handout5_sp2002.pdf
+file: /ol-ocw-studio-app/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/21130d3bbbb14511c8e8ef64c295ab1f_handout5_sp2002.pdf
 file_size: 181303
 file_type: application/pdf
 learning_resource_types:

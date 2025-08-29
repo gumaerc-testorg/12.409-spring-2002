@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Meade 8" LX200 Set-up
-file: /courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/290d856f660cee59875bd4f51564080c_handout3_sp2002.pdf
+file: /ol-ocw-studio-app/courses/12-409-hands-on-astronomy-observing-stars-and-planets-spring-2002/290d856f660cee59875bd4f51564080c_handout3_sp2002.pdf
 file_size: 40347
 file_type: application/pdf
 learning_resource_types:
